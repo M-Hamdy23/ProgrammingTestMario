@@ -64,4 +64,8 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
-# Cache files for the editor to useDerivedDataCache/*
+# Cache files for the editor to 
+
+useDerivedDataCache/*
+
+Content/StarterContent/
